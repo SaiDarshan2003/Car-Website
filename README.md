@@ -19,6 +19,5 @@ To create a commercial website using HTML & CSS.
 ![image](https://github.com/SaiDarshan2003/Car-Website/assets/94692595/4506d59a-ae85-484a-8e65-d1dd6128028f)
 
 ## Result:
-Therefore we have succesfully created a image carousel in react using hooksAssignment.
-
+Therefore we have succesfully created a commercial website using HTML & CSS.
 
