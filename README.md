@@ -18,10 +18,9 @@ To create a commercial website using HTML & CSS.
 5.Edit App.js and enter the HTML code in the return and render.
 
 ## Output:
-
-[!in](1.png)
-[!in](2.png)
-[!in](3.png)
+![1](https://github.com/SaiDarshan2003/Car-Website/assets/94692595/7d110b2b-4ced-4397-b54b-e0e77f544b3f)
+![2](https://github.com/SaiDarshan2003/Car-Website/assets/94692595/8cfea3e8-8745-4879-b0cc-27106d43262d)
+![3](https://github.com/SaiDarshan2003/Car-Website/assets/94692595/e908445c-a20d-420f-8aee-59810d91fa20)
 
 ## Result:
 Therefore we have succesfully created a commercial website using HTML & CSS.
